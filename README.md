@@ -1,2 +1,2 @@
-# Tik-Tac-Toe-React
+# Sanbox-repo
 Created with CodeSandbox
