@@ -48,6 +48,7 @@ const App = () => {
 
   return (
     <div className="App">
+      <h1>Tic-Tac-Toe</h1>
       <Board square={moves} handleClick={handleClick} />
       {winner !== "" ? (
         <p className="results">
